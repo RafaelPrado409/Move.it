@@ -1,0 +1,78 @@
+.overlay {
+    background: rgba(242, 243, 245, 0.8);
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background: #f0f0f0;
+    width: 100%;
+    max-width: 400px;
+    padding: 2rem 3rem;
+    border-radius: 5px;
+    box-shadow: 0 0 60px rgba(20, 100, 255, 30%);
+    text-align: center;
+    position: relative;
+}
+
+.container header {
+    font-size: 1.75rem;
+    font-weight: 600;
+    color: var(--blue);
+    background-size: contain;
+    margin-top: 1rem;
+}
+
+.container input {
+    border: var(--blue);
+    border-radius: 5px;
+    margin-top: 1rem;
+    color: var(--blue);
+    padding: 0.25rem;
+}
+
+.container p {
+    font-size: 1.25rem;
+    color: var(--blue);
+    margin-top: 1rem;
+}
+
+.closeButton {
+    position: absolute;
+    right: 0.5rem;
+    top: 0.5rem;
+    background: transparent;
+    border: 0;
+}
+
+.container footer button {
+    height: 2.5rem;
+    width: 14.6rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1.5rem 2rem 0 2.3rem;
+    border: 0;
+    border-radius: 5px;
+    color: #f0f0f0;
+    font-size: 1rem;
+    font-weight: 600;
+    transition: filter 0.2s;
+    background: var(--blue);
+}
+
+.container footer button:not(:disabled):hover {
+    background: var(--blue-dark);
+}
+
+.container footer button:disabled {
+    background: var(--white);
+    color: var(--blue);
+    cursor: not-allowed;
+}
