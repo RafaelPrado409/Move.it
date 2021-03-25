@@ -1,12 +1,13 @@
+
 ![Imgur](https://i.imgur.com/EV7opuD.png)
 
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next](https://img.shields.io/badge/Next-07405E?style=for-the-badge&logo=next.js&logoColor=white)
 
-![Imgur](https://i.imgur.com/8XOYiFm.png)
-![Imgur](https://i.imgur.com/ZZR19qJ.png?1)
-![Imgur](https://i.imgur.com/eLrKyON.png?1)
 ![Imgur](https://i.imgur.com/tVtSpNY.png?1)
-![Imgur](https://i.imgur.com/3pdRf3J.png?1)
-![Imgur](https://i.imgur.com/cCixg6Y.png)
 
 # English
 
