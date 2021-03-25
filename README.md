@@ -9,6 +9,8 @@
 
 ![Imgur](https://i.imgur.com/tVtSpNY.png?1)
 
+### You can view the remaining images in my [Figma](https://www.figma.com/file/qgUHVXNZ8xvXpVXfrcm8v6/Rafael-Prado---Proffy_Web?node-id=0%3A1)
+
 # English
 
 Move.it, an application made in NextJS, came to help those who spend a lot of time sitting in front of a computer. with it you will exercise your body and eyes in a certain period of time and you will level up for that.
